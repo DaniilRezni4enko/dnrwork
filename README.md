@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![DNRWORK Logo](https://github.com/DaniilRezni4enko/dnrwork/2026-02-08 13.52.41.jpg)
+![DNRWORK Logo](https://github.com/DaniilRezni4enko/dnrwork/main_str.jpg)
 **Платформа для поиска работы и сотрудников**
 
 [![Laravel](https://img.shields.io/badge/Laravel-10+-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
