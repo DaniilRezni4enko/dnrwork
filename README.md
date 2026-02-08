@@ -1,6 +1,5 @@
 # 🔐 ChaseProfit: Интеллектуальный анализ крипторынка
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/crypto-assistant?style=flat-square)
 ![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)
 ![Python Version](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
